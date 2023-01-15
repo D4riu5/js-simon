@@ -1,4 +1,25 @@
 .myCol{
     width: 150px;
     aspect-ratio: 1/1;
+    background-color: gray;
+}
+
+.my-bg-gray{
+    background-color: gray;
+}
+
+.my-bg-green{
+    background-color: limegreen !important;
+}
+
+.my-bg-red{
+    background-color: red !important;
+}
+
+.hidden{
+    display: none;
+}
+
+.re-start{
+    display: none;
 }
